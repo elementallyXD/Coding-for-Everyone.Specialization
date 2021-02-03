@@ -1,1 +1,9 @@
 .vs/ 
+*.exe
+*.exe*
+*.idb
+*.pdb
+*.obj
+*.sln
+*.ilk
+*.vcx*
