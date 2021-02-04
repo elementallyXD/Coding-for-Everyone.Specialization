@@ -5,7 +5,6 @@ specifically the average weight of the northern elephant seal (Mirounga angustir
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 
 #define size 1000
 
